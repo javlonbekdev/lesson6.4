@@ -11,6 +11,9 @@
 		5DEC1B1327A7A9D300FC75A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DEC1B1227A7A9D300FC75A7 /* ContentView.swift */; };
 		5DEC1B1527A7A9D500FC75A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DEC1B1427A7A9D500FC75A7 /* Assets.xcassets */; };
 		5DEC1B1827A7A9D500FC75A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DEC1B1727A7A9D500FC75A7 /* Preview Assets.xcassets */; };
+		5DEC1B1F27A7AD0700FC75A7 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DEC1B1E27A7AD0700FC75A7 /* User.swift */; };
+		5DEC1B2127A7B1B600FC75A7 /* Defs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DEC1B2027A7B1B600FC75A7 /* Defs.swift */; };
+		5DEC1B2327A7B31300FC75A7 /* Defaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DEC1B2227A7B31300FC75A7 /* Defaults.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		5DEC1B1227A7A9D300FC75A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5DEC1B1427A7A9D500FC75A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DEC1B1727A7A9D500FC75A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5DEC1B1E27A7AD0700FC75A7 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		5DEC1B2027A7B1B600FC75A7 /* Defs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Defs.swift; sourceTree = "<group>"; };
+		5DEC1B2227A7B31300FC75A7 /* Defaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Defaults.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				5DEC1B1027A7A9D300FC75A7 /* lesson6_4App.swift */,
 				5DEC1B1227A7A9D300FC75A7 /* ContentView.swift */,
+				5DEC1B1E27A7AD0700FC75A7 /* User.swift */,
+				5DEC1B2027A7B1B600FC75A7 /* Defs.swift */,
+				5DEC1B2227A7B31300FC75A7 /* Defaults.swift */,
 				5DEC1B1427A7A9D500FC75A7 /* Assets.xcassets */,
 				5DEC1B1627A7A9D500FC75A7 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				5DEC1B1327A7A9D300FC75A7 /* ContentView.swift in Sources */,
 				5DEC1B1127A7A9D300FC75A7 /* lesson6_4App.swift in Sources */,
+				5DEC1B2327A7B31300FC75A7 /* Defaults.swift in Sources */,
+				5DEC1B1F27A7AD0700FC75A7 /* User.swift in Sources */,
+				5DEC1B2127A7B1B600FC75A7 /* Defs.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
